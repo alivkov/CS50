@@ -1,0 +1,64 @@
+.logo{
+	width: 400px;
+	margin-top: 200px;
+}
+
+
+#logo img{
+	width: 180px;
+	padding: 0px 0px 0px 15px;
+}
+
+.nav-item{
+	font-family: Arial, sans-serif;
+	padding: 20px !important;
+	text-align: right;
+}
+
+#advanced_logo{
+	color: #d93025;
+	font-size: 20px;
+	padding-left: 25px;
+}
+
+a{
+
+	font-size: 14px;
+	color: #000 !important;
+	text-decoration: none !important;
+}
+
+a:hover{
+
+	text-decoration: underline !important;
+}
+
+#search{
+	margin-top: 20px;
+}
+
+.input-index{
+	border-radius: 20px;
+	width: 500px;
+	height: 40px;
+	border: 2px solid rgba(171,166,171) !important;
+}
+
+.input-index:focus{
+box-shadow: 10px 10px 7px -8px rgba(171,166,171,1);
+	border: 2px solid rgba(171,166,171) !important;
+}
+
+.input-index:hover{
+box-shadow: 10px 10px 7px -8px rgba(171,166,171,1);
+	border: 2px solid rgba(171,166,171) !important;
+}	
+button { 
+--bs-btn-font-weight: 600;
+	--bs-btn-color: #3c4043 !important;
+--bs-btn-bg: #f8f9fa !important;
+--bs-btn-border-color: #f8f9fa !important;
+--bs-btn-hover-color: #3c4043 !important;
+--bs-btn-hover-bg: #f8f9fa !important;
+--bs-btn-hover-border-color: #cccccc !important;
+}
